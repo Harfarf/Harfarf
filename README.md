@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucía
+- 👋 Hi, I’m Lucía 
 - 👀 I’m interested in videogame programming
 - 🌱 I’m currently learning about it
 - 💞️ I’m looking to collaborate on every project i could
