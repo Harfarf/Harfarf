@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucía 
-- 👀 I’m interested in videogame programming
+- 👀 I’m interested in videogame programming 
 - 🌱 I’m currently learning about it
 - 💞️ I’m looking to collaborate on every project i could
 - 📫 How to reach me: luciaft2000@hotmail.com
