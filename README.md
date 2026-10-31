@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a videogame programmer passionate about creati
 
 - 💼 **LinkedIn:** [luciafertam](https://www.linkedin.com/in/luciafertam)
 - 👩‍💻 **Work GitHub:** [@LuciaToya](https://github.com/LuciaToya)
+- 💻 **Personal Webpage:** [Lucia Fernandez](https://harfarf.github.io/index)
 
 ---
 
