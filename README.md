@@ -19,4 +19,19 @@ Welcome to my GitHub profile! I'm a videogame programmer passionate about creati
 
 ---
 
+💻 Programming Languages & Game Engines
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" alt="Roblox Studio" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</p>
+
+---
+
 ⭐ *Always learning, always creating, always improving.*
