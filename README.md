@@ -6,16 +6,16 @@ Welcome to my GitHub profile! I'm a videogame programmer passionate about creati
 
 ### ✨ A little about me
 
-- 🎮 I'm a videogame programmer passionate about game development.
-- 🌱 Always eager to learn new technologies and expand my skills.
-- 🤝 I love collaborating with others and contributing to exciting projects.
-- 💻 **Main programming languages:** C# and Lua.
+- I'm a videogame programmer passionate about game development.
+- Always eager to learn new technologies and expand my skills.
+- I love collaborating with others and contributing to exciting projects.
+- **Main programming languages:** C# and Lua.
 
 ### 📫 Let's connect!
 
-- 💼 **LinkedIn:** [luciafertam](https://www.linkedin.com/in/luciafertam)
-- 👩‍💻 **Work GitHub:** [@LuciaToya](https://github.com/LuciaToya)
-- 💻 **Personal Webpage:** [Lucia Fernandez](https://harfarf.github.io/index)
+- **LinkedIn:** [luciafertam](https://www.linkedin.com/in/luciafertam)
+- **Personal Webpage:** [Lucia Fernandez](https://harfarf.github.io/index)
+- **Work GitHub:** [@LuciaToya](https://github.com/LuciaToya)
 
 ---
 
